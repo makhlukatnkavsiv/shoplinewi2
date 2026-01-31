@@ -1,0 +1,944 @@
+{
+  "sections": {
+    "176136044734223d9144": {
+      "type": "image-banner",
+      "settings": {
+        "color_scheme": "scheme-11",
+        "first_image": "shopline://shop_images/Frame 1321317552.png",
+        "image_height": "small",
+        "layout": {
+          "@media (--mobile)": {
+            "align-items": "center",
+            "column-gap": "0px",
+            "flex-direction": "row",
+            "flex-wrap": "nowrap",
+            "justify-content": "center",
+            "row-gap": "0px"
+          },
+          "align-items": "center",
+          "column-gap": "0px",
+          "flex-direction": "row",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "0px"
+        },
+        "match_height_to_first_image": false,
+        "mobile_tile_layout": false,
+        "overlay_opacity": 0,
+        "second_image": {},
+        "show_text_below_image": false,
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-inline-end": "20px",
+            "padding-inline-start": "20px"
+          },
+          "padding-inline-end": "30px",
+          "padding-inline-start": "30px"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "1761360447343eee7e9d": {
+          "type": "$container",
+          "settings": {
+            "inherit_color_scheme": false,
+            "layout": {
+              "@media (--mobile)": {
+                "align-items": "center",
+                "column-gap": "8px",
+                "flex-direction": "column",
+                "flex-wrap": "nowrap",
+                "justify-content": "center",
+                "row-gap": "8px"
+              },
+              "align-items": "flex-start",
+              "column-gap": "8px",
+              "flex-direction": "column",
+              "flex-wrap": "nowrap",
+              "justify-content": "center",
+              "row-gap": "8px"
+            },
+            "show_background_color": false
+          },
+          "blocks": {
+            "17613604473434c88dbc": {
+              "type": "description",
+              "settings": {
+                "content": "And optional subtext"
+              },
+              "disabled": true,
+              "blocks": {}
+            },
+            "1761360447343a2ae10f": {
+              "type": "subheading",
+              "settings": {
+                "subtitle": "LET'S MAKE YOUR DREAM HOME HAPPEN",
+                "text": "Subtitle",
+                "text_align": "left"
+              },
+              "blocks": {}
+            },
+            "1761360447343b0e30cc": {
+              "type": "heading",
+              "settings": {
+                "spacing": {
+                  "padding-block-end": "0",
+                  "padding-block-start": "0"
+                },
+                "text": "Free Design Services",
+                "text_align": "left",
+                "text_size": "title2"
+              },
+              "blocks": {}
+            },
+            "1761360447343c94190d": {
+              "type": "button-group",
+              "settings": {
+                "layout": {
+                  "align-items": "center",
+                  "column-gap": "14px",
+                  "flex-direction": "row",
+                  "flex-wrap": "nowrap",
+                  "justify-content": "flex-start",
+                  "row-gap": "14px"
+                }
+              },
+              "blocks": {
+                "17613604473431836dc0": {
+                  "type": "button",
+                  "settings": {
+                    "link": "",
+                    "style": "primary",
+                    "text": "BOOK NOW"
+                  },
+                  "blocks": {}
+                },
+                "17613604473439448d8b": {
+                  "type": "button",
+                  "settings": {
+                    "link": "",
+                    "style": "primary",
+                    "text": "Shop all"
+                  },
+                  "disabled": true,
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "17613604473431836dc0",
+                "17613604473439448d8b"
+              ]
+            }
+          },
+          "block_order": [
+            "1761360447343a2ae10f",
+            "1761360447343b0e30cc",
+            "17613604473434c88dbc",
+            "1761360447343c94190d"
+          ]
+        }
+      },
+      "block_order": [
+        "1761360447343eee7e9d"
+      ],
+      "name": "t:sections.image_banner.presets.presets_0.name"
+    },
+    "1761362522005528db43": {
+      "type": "custom-section",
+      "settings": {
+        "color_scheme": "scheme-3",
+        "layout": {
+          "align-items": "center",
+          "column-gap": "10px",
+          "flex-direction": "row",
+          "flex-wrap": "nowrap",
+          "justify-content": "space-between",
+          "row-gap": "0px"
+        },
+        "size": {
+          "height": "auto",
+          "width": "100%"
+        },
+        "spacing": {
+          "padding-block-end": "20px",
+          "padding-block-start": "20px",
+          "padding-inline-end": "0px",
+          "padding-inline-start": "0px"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "17613625220087c89269": {
+          "type": "group",
+          "settings": {
+            "color_scheme": "scheme-3",
+            "inherit_color_scheme": false,
+            "layout": {
+              "align-items": "center",
+              "column-gap": "0px",
+              "flex-direction": "column",
+              "flex-wrap": "nowrap",
+              "justify-content": "center",
+              "row-gap": "0px"
+            },
+            "open_in_new_tab": true,
+            "size": {
+              "height": "auto",
+              "width": "50%"
+            },
+            "spacing": {
+              "padding-block-end": "20px",
+              "padding-block-start": "20px",
+              "padding-inline-end": "5px",
+              "padding-inline-start": "5px"
+            }
+          },
+          "blocks": {
+            "17613625220088fdfc60": {
+              "type": "heading",
+              "settings": {
+                "text": "1/2",
+                "text_align": "center"
+              },
+              "disabled": true,
+              "blocks": {}
+            },
+            "17613627964682f29f6a": {
+              "type": "heading",
+              "settings": {
+                "background_color": "rgba(0,0,0,0)",
+                "size": {
+                  "height": "auto",
+                  "width": "auto"
+                },
+                "text": "ONLINE",
+                "text_align": "center",
+                "text_tag": "h2",
+                "typography": "title3"
+              },
+              "blocks": {},
+              "block_order": []
+            },
+            "1761362803450309b559": {
+              "type": "text",
+              "settings": {
+                "background_color": "rgba(0,0,0,0)",
+                "size": {
+                  "height": "auto",
+                  "width": "100%"
+                },
+                "spacing": {
+                  "padding-block-end": "15px",
+                  "padding-block-start": "10px",
+                  "padding-inline-end": "0px",
+                  "padding-inline-start": "0px"
+                },
+                "text": "\u003cspan style=\"font-size: 24px;\"\u003eAccess designer assistance at any time and place.\u003c/span\u003e",
+                "text_align": "center",
+                "typography": "typography-default"
+              },
+              "blocks": {},
+              "block_order": []
+            },
+            "1761362816079b93208b": {
+              "type": "button",
+              "settings": {
+                "link": "",
+                "open_in_new_tab": true,
+                "size": {
+                  "height": "auto",
+                  "width": "auto"
+                },
+                "spacing": {
+                  "padding-block-end": "10px",
+                  "padding-block-start": "10px",
+                  "padding-inline-end": "20px",
+                  "padding-inline-start": "20px"
+                },
+                "style": "primary",
+                "text": "Book Now"
+              },
+              "blocks": {},
+              "block_order": []
+            },
+            "17613631320917a2df6b": {
+              "type": "logo/logo",
+              "settings": {
+                "desktop_width": 100,
+                "logo": "shopline://shop_images/Frame 1217945028_7231567007111453864.png",
+                "mobile_width": 80,
+                "size": {
+                  "height": "auto",
+                  "width": "auto"
+                },
+                "spacing": {
+                  "padding-block-end": "0px",
+                  "padding-block-start": "0px",
+                  "padding-inline-end": "0px",
+                  "padding-inline-start": "0px"
+                }
+              },
+              "blocks": {},
+              "block_order": []
+            }
+          },
+          "block_order": [
+            "17613625220088fdfc60",
+            "17613631320917a2df6b",
+            "17613627964682f29f6a",
+            "1761362803450309b559",
+            "1761362816079b93208b"
+          ]
+        },
+        "1761364518065a13d014": {
+          "type": "group",
+          "settings": {
+            "color_scheme": "scheme-3",
+            "inherit_color_scheme": false,
+            "layout": {
+              "align-items": "center",
+              "column-gap": "20px",
+              "flex-direction": "column",
+              "flex-wrap": "nowrap",
+              "justify-content": "center",
+              "row-gap": "0px"
+            },
+            "open_in_new_tab": true,
+            "size": {
+              "height": "auto",
+              "width": "50%"
+            },
+            "spacing": {
+              "padding-block-end": "20px",
+              "padding-block-start": "20px",
+              "padding-inline-end": "5px",
+              "padding-inline-start": "5px"
+            }
+          },
+          "blocks": {
+            "17613645180642e1b353": {
+              "type": "heading",
+              "settings": {
+                "text": "1/2",
+                "text_align": "center"
+              },
+              "disabled": true,
+              "blocks": {}
+            },
+            "17613645180644e6fd59": {
+              "type": "button",
+              "settings": {
+                "link": "",
+                "open_in_new_tab": true,
+                "size": {
+                  "height": "auto",
+                  "width": "auto"
+                },
+                "spacing": {
+                  "padding-block-end": "10px",
+                  "padding-block-start": "10px",
+                  "padding-inline-end": "20px",
+                  "padding-inline-start": "20px"
+                },
+                "style": "primary",
+                "text": "Book Now"
+              },
+              "blocks": {},
+              "block_order": []
+            },
+            "1761364518064db64f92": {
+              "type": "heading",
+              "settings": {
+                "background_color": "rgba(0,0,0,0)",
+                "size": {
+                  "height": "auto",
+                  "width": "auto"
+                },
+                "text": "IN-STORE",
+                "text_align": "center",
+                "text_tag": "h2",
+                "typography": "title3"
+              },
+              "blocks": {},
+              "block_order": []
+            },
+            "1761364518064ea9cfdc": {
+              "type": "logo/logo",
+              "settings": {
+                "desktop_width": 100,
+                "logo": "shopline://shop_images/Frame 1321317537_7231567007933537450.png",
+                "mobile_width": 80,
+                "size": {
+                  "height": "auto",
+                  "width": "auto"
+                },
+                "spacing": {
+                  "padding-block-end": "0px",
+                  "padding-block-start": "0px",
+                  "padding-inline-end": "0px",
+                  "padding-inline-start": "0px"
+                }
+              },
+              "blocks": {},
+              "block_order": []
+            },
+            "1761364518064f132bed": {
+              "type": "text",
+              "settings": {
+                "background_color": "rgba(0,0,0,0)",
+                "size": {
+                  "height": "auto",
+                  "width": "100%"
+                },
+                "spacing": {
+                  "padding-block-end": "15px",
+                  "padding-block-start": "10px",
+                  "padding-inline-end": "0px",
+                  "padding-inline-start": "0px"
+                },
+                "text": "\u003cspan style=\"font-size: 24px;\"\u003eShop alongside a specialist and experience our products firsthand.\u003c/span\u003e",
+                "text_align": "center",
+                "typography": "typography-default"
+              },
+              "blocks": {},
+              "block_order": []
+            }
+          },
+          "block_order": [
+            "17613645180642e1b353",
+            "1761364518064ea9cfdc",
+            "1761364518064db64f92",
+            "1761364518064f132bed",
+            "17613645180644e6fd59"
+          ]
+        }
+      },
+      "block_order": [
+        "17613625220087c89269",
+        "1761364518065a13d014"
+      ],
+      "custom_css": [],
+      "name": "t:sections.custom_section.presets.presets_1.name"
+    },
+    "1761364282263275fe32": {
+      "type": "text-columns-with-image",
+      "settings": {
+        "color_scheme": "scheme-8",
+        "layout": {
+          "@media (--mobile)": {
+            "column-gap": "20px",
+            "row-gap": "20px"
+          },
+          "align-items": "center",
+          "column-gap": "30px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "30px"
+        },
+        "show_card_background": "hidden",
+        "size": {
+          "height": "auto",
+          "width": "100%"
+        },
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-block-end": "24px",
+            "padding-block-start": "24px"
+          },
+          "padding-block-end": "40px",
+          "padding-block-start": "40px",
+          "padding-inline-end": "0px",
+          "padding-inline-start": "0px"
+        }
+      },
+      "disabled": false,
+      "blocks": {
+        "176136428226652ee5b2": {
+          "type": "$card-group",
+          "settings": {
+            "content_alignment": "left",
+            "enable_mobile_scroll": true,
+            "image_aspect_ratio": "3/4",
+            "image_width": "100%"
+          },
+          "blocks": {
+            "1761364282266a52ec4f": {
+              "type": "$card",
+              "settings": {
+                "button_text": ""
+              },
+              "blocks": {
+                "17613642822661318e58": {
+                  "type": "$text",
+                  "settings": {
+                    "text": "Get Start-to-Finish Support\u003cbr\u003eWe'll share free mood boards, floor plans, and shopping lists for a design you love."
+                  },
+                  "blocks": {}
+                },
+                "17613642822661f80097": {
+                  "type": "image/image",
+                  "settings": {
+                    "aspect_ratio": "unset",
+                    "image": "shopline://shop_images/Frame 1321317694.png"
+                  },
+                  "blocks": {}
+                },
+                "17613642822667d4f3d9": {
+                  "type": "$title",
+                  "settings": {},
+                  "disabled": true,
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "17613642822661f80097",
+                "17613642822667d4f3d9",
+                "17613642822661318e58"
+              ]
+            },
+            "1761364282266a74610f": {
+              "type": "$card",
+              "settings": {
+                "button_text": "",
+                "layout": {
+                  "@media (--mobile)": {
+                    "column-gap": "8px",
+                    "row-gap": "8px"
+                  },
+                  "align-items": "center",
+                  "column-gap": "16px",
+                  "flex-direction": "column",
+                  "flex-wrap": "nowrap",
+                  "justify-content": "flex-start",
+                  "row-gap": "16px"
+                }
+              },
+              "blocks": {
+                "17613642822666d41777": {
+                  "type": "image/image",
+                  "settings": {
+                    "aspect_ratio": "unset",
+                    "image": "shopline://shop_images/Frame 1321317691.png"
+                  },
+                  "blocks": {}
+                },
+                "17613642822669fd740c": {
+                  "type": "$title",
+                  "settings": {},
+                  "disabled": true,
+                  "blocks": {}
+                },
+                "1761364282266ea63ee6": {
+                  "type": "$text",
+                  "settings": {
+                    "text": "Tell Us Your ideas\u003cbr\u003eGive us the project details, whether it's a seasonal refresh or designing every room."
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "17613642822666d41777",
+                "17613642822669fd740c",
+                "1761364282266ea63ee6"
+              ]
+            },
+            "1761364282266b0da322": {
+              "type": "$card",
+              "settings": {
+                "button_text": ""
+              },
+              "blocks": {
+                "17613642822666ff43e3": {
+                  "type": "image/image",
+                  "settings": {
+                    "aspect_ratio": "unset",
+                    "image": "shopline://shop_images/Frame 1321317693_7232224331220143027.png"
+                  },
+                  "blocks": {}
+                },
+                "1761364282266cdaf91a": {
+                  "type": "$text",
+                  "settings": {
+                    "text": "Meet Your Dedicated Designer\u003cbr\u003eYour design expert will offer step-by step help online or in-store."
+                  },
+                  "blocks": {}
+                },
+                "1761364282266e88eb87": {
+                  "type": "$title",
+                  "settings": {},
+                  "disabled": true,
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "17613642822666ff43e3",
+                "1761364282266e88eb87",
+                "1761364282266cdaf91a"
+              ]
+            }
+          },
+          "block_order": [
+            "1761364282266a74610f",
+            "1761364282266b0da322",
+            "1761364282266a52ec4f"
+          ]
+        },
+        "17613642822665bcb528": {
+          "type": "heading",
+          "settings": {
+            "background_color": "rgba(0,0,0,0)",
+            "size": {
+              "height": "100%",
+              "width": "100%"
+            },
+            "text": "How It Works",
+            "text_align": "left",
+            "text_tag": "h1",
+            "typography": "title1"
+          },
+          "blocks": {}
+        },
+        "1761364282266eda9a57": {
+          "type": "$view-more",
+          "settings": {},
+          "disabled": true,
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "17613642822665bcb528",
+        "176136428226652ee5b2",
+        "1761364282266eda9a57"
+      ],
+      "name": "t:sections.text_columns_with_image.presets.presets_0.name"
+    },
+    "1761376473479d39a460": {
+      "type": "custom-section",
+      "settings": {
+        "color_scheme": "scheme-8",
+        "layout": {
+          "@media (--mobile)": {
+            "column-gap": "20px",
+            "row-gap": "20px"
+          },
+          "align-items": "flex-start",
+          "column-gap": "32px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "32px"
+        },
+        "size": {
+          "height": "auto",
+          "width": "100%"
+        },
+        "spacing": {}
+      },
+      "disabled": false,
+      "blocks": {
+        "176137649492320c684a": {
+          "type": "group",
+          "settings": {
+            "color_scheme": "scheme-3",
+            "inherit_color_scheme": true,
+            "layout": {
+              "align-items": "flex-start",
+              "flex-direction": "column",
+              "flex-wrap": "nowrap",
+              "justify-content": "center"
+            },
+            "open_in_new_tab": true,
+            "spacing": {
+              "@media (--mobile)": {
+                "padding-block-end": "10px",
+                "padding-block-start": "10px",
+                "padding-inline-end": "10px",
+                "padding-inline-start": "10px"
+              },
+              "padding-block-end": "0px",
+              "padding-block-start": "20px",
+              "padding-inline-end": "20px",
+              "padding-inline-start": "40px"
+            }
+          },
+          "blocks": {
+            "1761376517942a76ff50": {
+              "type": "heading",
+              "settings": {
+                "background_color": "rgba(0,0,0,0)",
+                "size": {
+                  "height": "auto",
+                  "width": "auto"
+                },
+                "spacing": {
+                  "padding-block-end": "10px",
+                  "padding-block-start": "10px"
+                },
+                "text": "2 Ways to Meet Your Designer",
+                "text_align": "left",
+                "text_tag": "h2",
+                "typography": "title3"
+              },
+              "blocks": {},
+              "block_order": []
+            }
+          },
+          "block_order": [
+            "1761376517942a76ff50"
+          ]
+        }
+      },
+      "block_order": [
+        "176137649492320c684a"
+      ],
+      "name": "t:sections.custom_section.presets.presets_0.name"
+    },
+    "1761377585376bcbf735": {
+      "type": "shopping-image",
+      "settings": {
+        "color_scheme": "scheme-3"
+      },
+      "disabled": false,
+      "blocks": {
+        "1761377585378939ada5": {
+          "type": "$image",
+          "settings": {
+            "desktop_image": "shopline://shop_images/Frame 1321317553.png"
+          },
+          "blocks": {
+            "1761377585378aa3bde2": {
+              "type": "$product-anchor",
+              "settings": {
+                "color_scheme": "scheme-3",
+                "desktop_columns": 62,
+                "desktop_rows": 20,
+                "mobile_columns": 20,
+                "mobile_rows": 75,
+                "product": "16072271141088851471072990"
+              },
+              "blocks": {}
+            },
+            "1761377585378b70eacf": {
+              "type": "$group",
+              "settings": {},
+              "blocks": {
+                "17613775853794a7eb2d": {
+                  "type": "heading",
+                  "settings": {
+                    "spacing": {
+                      "padding-block-end": "0",
+                      "padding-block-start": "0",
+                      "padding-inline-end": "0",
+                      "padding-inline-start": "0"
+                    },
+                    "text": "Shop the look"
+                  },
+                  "disabled": true,
+                  "blocks": {}
+                },
+                "1761377585379a2e344f": {
+                  "type": "button",
+                  "settings": {
+                    "spacing": {
+                      "@media (--mobile)": {
+                        "padding-block-end": "0px",
+                        "padding-block-start": "20px",
+                        "padding-inline-end": "0",
+                        "padding-inline-start": "0"
+                      },
+                      "padding-block-end": "0",
+                      "padding-block-start": "40px",
+                      "padding-inline-end": "0",
+                      "padding-inline-start": "0"
+                    },
+                    "style": "link",
+                    "text": "SHOW NOW"
+                  },
+                  "disabled": true,
+                  "blocks": {}
+                },
+                "1761377585379dc0f681": {
+                  "type": "description",
+                  "settings": {
+                    "content": "And optional subtext"
+                  },
+                  "disabled": true,
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "17613775853794a7eb2d",
+                "1761377585379dc0f681",
+                "1761377585379a2e344f"
+              ]
+            },
+            "17613781291984b09590": {
+              "type": "$product-anchor",
+              "settings": {
+                "color_scheme": "scheme-3",
+                "desktop_columns": 67,
+                "desktop_rows": 75,
+                "mobile_columns": 20,
+                "mobile_rows": 50,
+                "product": "16072261873862914885522990"
+              },
+              "blocks": {},
+              "block_order": []
+            },
+            "1761378209381de6a54e": {
+              "type": "$product-anchor",
+              "settings": {
+                "color_scheme": "scheme-3",
+                "desktop_columns": 77,
+                "desktop_rows": 47,
+                "mobile_columns": 20,
+                "mobile_rows": 50,
+                "product": "16072261731151553513442990"
+              },
+              "blocks": {},
+              "block_order": []
+            }
+          },
+          "block_order": [
+            "1761377585378b70eacf",
+            "1761377585378aa3bde2",
+            "17613781291984b09590",
+            "1761378209381de6a54e"
+          ]
+        }
+      },
+      "block_order": [
+        "1761377585378939ada5"
+      ],
+      "name": "t:sections.shopping_image.presets.presets_0.name"
+    },
+    "1761378277343b508bc1": {
+      "type": "custom-section",
+      "settings": {
+        "color_scheme": "scheme-8",
+        "layout": {
+          "@media (--mobile)": {
+            "column-gap": "20px",
+            "row-gap": "20px"
+          },
+          "align-items": "flex-start",
+          "column-gap": "32px",
+          "flex-direction": "column",
+          "flex-wrap": "nowrap",
+          "justify-content": "center",
+          "row-gap": "32px"
+        },
+        "size": {
+          "height": "auto",
+          "width": "100%"
+        },
+        "spacing": {}
+      },
+      "disabled": false,
+      "blocks": {
+        "17613782917303733c79": {
+          "type": "group",
+          "settings": {
+            "color_scheme": "scheme-3",
+            "inherit_color_scheme": true,
+            "layout": {
+              "align-items": "flex-start",
+              "flex-direction": "column",
+              "flex-wrap": "nowrap",
+              "justify-content": "center"
+            },
+            "open_in_new_tab": true,
+            "spacing": {
+              "@media (--mobile)": {
+                "padding-bottom": "10px",
+                "padding-left": "10px",
+                "padding-right": "10px",
+                "padding-top": "10px"
+              },
+              "padding-bottom": "20px",
+              "padding-left": "20px",
+              "padding-right": "20px",
+              "padding-top": "20px"
+            }
+          },
+          "blocks": {
+            "1761378300538f2acb89": {
+              "type": "heading",
+              "settings": {
+                "background_color": "rgba(0,0,0,0)",
+                "size": {
+                  "height": "auto",
+                  "width": "auto"
+                },
+                "text": "Elevate your lounging with luxe custom upholstery",
+                "text_align": "left",
+                "text_tag": "h2",
+                "typography": "title3"
+              },
+              "blocks": {},
+              "block_order": []
+            },
+            "17613783105321ab1748": {
+              "type": "text",
+              "settings": {
+                "background_color": "rgba(0,0,0,0)",
+                "size": {
+                  "height": "auto",
+                  "width": "100%"
+                },
+                "spacing": {
+                  "padding-bottom": "0px",
+                  "padding-left": "0px",
+                  "padding-right": "0px",
+                  "padding-top": "0px"
+                },
+                "text": "Reflect your personal style and create your perfect lounge piece with the timeless artistry of made-to-order silhouettes and designer-curated fabrics.",
+                "text_align": "left",
+                "typography": "body6"
+              },
+              "blocks": {},
+              "block_order": []
+            }
+          },
+          "block_order": [
+            "1761378300538f2acb89",
+            "17613783105321ab1748"
+          ]
+        }
+      },
+      "block_order": [
+        "17613782917303733c79"
+      ],
+      "name": "t:sections.custom_section.presets.presets_0.name"
+    },
+    "main-page": {
+      "type": "main-page",
+      "settings": {
+        "spacing": {
+          "@media (--mobile)": {
+            "padding-bottom": "40px",
+            "padding-left": "0",
+            "padding-right": "0",
+            "padding-top": "40px"
+          },
+          "padding-bottom": "80px",
+          "padding-left": "210px",
+          "padding-right": "210px",
+          "padding-top": "80px"
+        }
+      },
+      "disabled": true,
+      "blocks": {}
+    }
+  },
+  "order": [
+    "176136044734223d9144",
+    "1761376473479d39a460",
+    "1761362522005528db43",
+    "1761378277343b508bc1",
+    "1761377585376bcbf735",
+    "1761364282263275fe32",
+    "main-page"
+  ]
+}
